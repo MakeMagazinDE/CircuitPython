@@ -4,12 +4,12 @@ Maker Media GmbH
 
 ***
 
-# Universaler Fräs- und Sägetisch
+# Oxocard in CircuitPython programmieren
 
-### Mit unseren Umbauideen wird aus einer normalen Tischkreissäge eine Fräs-Sagekombination.
+### Der Beitrag zeigt, wie der Umstieg von NanoPy auf CircuitPython gelingt.
 
-Platznot ist ein chronisches Problem in vielen Bastelräumen. Zum Glück wird aus einer Tischkreissäge schnell und günstig ein universaler Fräs- und Sägetisch.
+Im Vergleich zur Standard-Oxocard-Entwicklungsumgebung NanoPy bietet CircuitPython viele Vorteile, darunter eine breitere Auswahl an Bibliotheken und eine große Community.
 
 ![Picture](https://github.com/MakeMagazinDE/CircuitPython/blob/master/titel.jpg) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/19 ab Seite 118](https://www.heise.de/select/make/2019/5/1571592996373573). Hier finden Sie die 3D-Druckdateien für die Absaugung.
+Den vollständigen Artikel gibt es in der [Make-Ausgabe 7/25 ab Seite 104](https://www.heise.de/select/make/2025/7/2528009364874368337).
