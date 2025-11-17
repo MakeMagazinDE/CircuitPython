@@ -13,3 +13,4 @@ Im Vergleich zur Standard-Oxocard-Entwicklungsumgebung NanoPy bietet CircuitPyth
 ![Picture](https://github.com/MakeMagazinDE/CircuitPython/blob/master/titel.jpg) 
 
 Den vollständigen Artikel gibt es in der [Make-Ausgabe 7/25 ab Seite 104](https://www.heise.de/select/make/2025/7/2528009364874368337).
+Die Beispielprogramme zum Beitrag sind im Verzeichnis "src" abgespeichert. 
